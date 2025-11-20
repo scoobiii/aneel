@@ -1,10 +1,8 @@
 # aneel
 
-Segue uma **versão refinada, coesa e extremamente clara**, pronta para **nota técnica, artigo, comunicação política ou institucional** — mantendo o **sentido crítico** do seu texto e ampliando a força argumentativa **com base em economia, energia e política pública**.
-
 ---
 
-# 🔥 **TEXTO REFORMULADO E ESTRUTURADO (ALTA QUALIDADE)**
+# 🔥 
 
 **Depois do amor, os indicadores mais importantes de qualquer civilização são:**
 
