@@ -1,17 +1,20 @@
-🎤 5. DISCURSO POLÍTICO (FORTE E CLARO)
+Senhor Presidente, Senhoras e Senhores Parlamentares,
 
-“Minhas amigas e meus amigos,
+O Brasil enfrenta hoje uma contradição estratégica de grandes proporções. Embora nosso consumo de energia per capita seja inferior à média global, decisões recentes de restrição energética têm comprometido diretamente nossa capacidade de crescer, atrair investimentos e competir internacionalmente.
 
-Nenhum país ficou rico consumindo pouca energia.
-Nenhuma nação venceu a pobreza com energia cara ou racionada.
+Nenhum país se tornou desenvolvido consumindo menos energia — pelo contrário. A expansão do consumo energético precedeu o aumento de renda em todas as nações industrializadas.
 
-O Brasil tem uma das matrizes mais limpas e baratas do mundo — mas consome menos energia por pessoa do que a média global. E mesmo assim, decisões recentes tentam restringir ainda mais nosso acesso.
+Restringir energia, em um país que já consome pouco, significa reduzir produtividade, atrasar industrialização, comprometer educação, saúde, ciência, agricultura, defesa e serviços públicos digitais.
 
-Isso está errado.
-Isso é contrário ao interesse nacional.
-Isso ameaça empregos, indústria, tecnologia, educação e segurança.
+E mais grave: enfraquece a meta do governo federal de trazer US$ 2 trilhões em investimentos para infraestrutura digital e energias renováveis.
 
-Se queremos atrair US$ 2 trilhões em datacenters, IA e infraestrutura digital, precisamos garantir energia abundante, estável e barata. Esse é o coração da soberania brasileira no século XXI.
+Por isso, proponho:
 
-Nós não aceitaremos cortes que atrasem o futuro do Brasil.
-O país precisa crescer — e para crescer precisa de energia.”
+A criação de metas nacionais de consumo de energia per capita.
+
+A revisão das decisões regulatórias que restrinjam oferta ou expandam tarifas sem base estratégica.
+
+A criação de um Conselho Interministerial de Segurança Energética.
+
+Energia é desenvolvimento. Energia é soberania. Energia é dignidade.
+O Brasil precisa ampliar, não restringir, seu acesso energético.
